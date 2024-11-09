@@ -1,2 +1,2 @@
-worker: python3 SAFEk.py
-web: python3 SAFEk.py
+worker: python SAFEk.py
+web: python SAFEk.py
