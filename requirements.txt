@@ -1,2 +1,5 @@
-websocket-client
-pyTelegramBotAPI
+fake_useragent 
+pyfiglet 
+websocket-client 
+websocket  
+requests
