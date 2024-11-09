@@ -1,1 +1,1 @@
-worker: python SAFEk.py
+worker: python3 SAFEk.py
